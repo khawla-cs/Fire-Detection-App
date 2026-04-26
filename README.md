@@ -17,6 +17,6 @@ The application is built with Streamlit, providing an interactive web interface 
 ## 🖼️ Project Showcase (Local Implementation)
 ![Fire Detection Demo](web%20app%20images/before.png)
 ![Fire Detection Demo](web%20app%20images/after.png)
-![Fire Detection Demo](web%20app%20images/web-cam.png)
+![Fire Detection Demo](web%20app%20images/web-cam.jpg)
 
 
