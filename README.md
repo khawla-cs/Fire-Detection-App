@@ -15,9 +15,8 @@ The application is built with Streamlit, providing an interactive web interface 
 - Computer Vision: OpenCV
 
 ## 🖼️ Project Showcase (Local Implementation)
-check "web app images" folder please!
+![Fire Detection Demo](web%20app%20images/before.png)
+![Fire Detection Demo](web%20app%20images/after.png)
+![Fire Detection Demo](web%20app%20images/web-cam.png)
 
-## 📋 How to Run Locally
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/khawla-cs/Fire-Detection-App.git](https://github.com/khawla-cs/Fire-Detection-App.git)
+
