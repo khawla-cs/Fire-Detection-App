@@ -15,7 +15,7 @@ The application is built with Streamlit, providing an interactive web interface 
 - Computer Vision: OpenCV
 
 ## 🖼️ Project Showcase (Local Implementation)
-![Fire Detection Demo](link_to_your_image_here)
+check "web app images" folder please!
 
 ## 📋 How to Run Locally
 1. Clone this repository:
